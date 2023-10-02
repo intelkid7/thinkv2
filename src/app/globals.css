@@ -25,3 +25,20 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.bag {
+  display: flex;
+  align-items: center;
+}
+
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cartim {
+  display: flex;
+  width: 25%;
+  object-fit: contain;
+}
