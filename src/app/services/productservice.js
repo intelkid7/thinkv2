@@ -11,7 +11,7 @@ export const getProducts = async (limit) => {
       expand: ["data.default_price"],
     });
   } catch (err) {
-    console.log("STRIPE ERROR:",err);
+    console.log("STRIPE ERROR:", err);
   }
 
   // console.log(JSON.stringify(products, null, 2)) //converts images to URL
