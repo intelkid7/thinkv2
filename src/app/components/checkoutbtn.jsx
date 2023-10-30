@@ -29,7 +29,7 @@ export default function CheckoutBtn({ cartItems }) {
     // Check to see if this is a redirect back from Checkout
     const query = new URLSearchParams(window.location.search);
     if (query.get("success")) {
-      deleteAllItems();
+      // deleteAllItems();
       console.log("delete");
       toast.success("Order Placed")
     }
