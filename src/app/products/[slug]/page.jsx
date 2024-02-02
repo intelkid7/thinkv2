@@ -1,6 +1,4 @@
 import Image from "next/image";
-import image from "./productimages/t1.png";
-import Link from "next/link";
 import ShareBtn from "@/app/components/sharebtn";
 import AddtoCartBtn from "@/app/components/addtocartbtn";
 import BuyNowBtn from "@/app/components/buynowbtn";
