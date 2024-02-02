@@ -16,7 +16,6 @@
     "react": "^18",
     "react-dom": "^18",
     "react-hot-toast": "^2.4.1",
-    "sharp": "^0.33.2",
     "stripe": "^14.12.0"
   },
   "devDependencies": {

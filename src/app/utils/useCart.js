@@ -11,7 +11,7 @@ export const useCart = () => {
     setCartCount(cartItems.length);
     findTotalPrice();
     populateCartItems();
-  },[cartItems.length])
+  },[cartItems])
 
   const findTotalPrice = () => {
     let amount = 0;
