@@ -1,6 +1,6 @@
 # think clothing
 
-**Description**
+# **Description**
 Think is a simple minimalistic e-commerce clothing site which was developed to explore the capabilities of Next JS such as Server Side Rendering, Static Site Generation, Dynamic Routing and Search Engine Optimization.
 
 **Functionalities**
